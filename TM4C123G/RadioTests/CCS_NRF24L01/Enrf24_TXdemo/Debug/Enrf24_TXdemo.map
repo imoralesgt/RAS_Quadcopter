@@ -1,0 +1,1806 @@
+Archive member included because of file (symbol)
+
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+                              ./Enrf24_TXdemo.o (strcmp)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                              ./inc/Enrf24.o (pinMode)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                              ./inc/Enrf24.o (millis)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o) (SysCtlClockSet)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                              (ResetISR)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o) (main)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o) (IntRegister)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o) (EEPROMMassErase)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o) (CPUcpsid)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o) (GPIOAIntHandler)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                              ./inc/Enrf24.o (Print::write(unsigned char const*, unsigned int))
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                              ./Enrf24_TXdemo.o (HardwareSerial::begin(unsigned long))
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__cxa_pure_virtual)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o) (GPIOIntEnable)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (String::operator[](unsigned int) const)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (ltoa)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__aeabi_dsub)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__aeabi_dmul)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__aeabi_dcmplt)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__aeabi_d2iz)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixunsdfsi.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (__aeabi_d2uiz)
+C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                              ./Enrf24_TXdemo.o (SPIClass::begin())
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (atol)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (isspace)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o) (malloc)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o) (_malloc_r)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (memcpy)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (memmove)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (realloc)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o) (_realloc_r)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strchr)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strcpy)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o) (strlen)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strncmp)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strncpy)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strrchr)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (strstr)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o) (_strtol_r)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (tolower)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+                              C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o) (toupper)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o) (__ctype_ptr__)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o) (_free_r)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o) (_impure_ptr)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o) (memchr)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o) (memcmp)
+c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+                              c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./inc/Enrf24.o
+ .data          0x00000000        0x0 ./inc/Enrf24.o
+ .bss           0x00000000        0x0 ./inc/Enrf24.o
+ .text._ZN6Enrf2417_irq_derivereasonEv
+                0x00000000        0xe ./inc/Enrf24.o
+ .text._ZN6Enrf245purgeEv
+                0x00000000        0x6 ./inc/Enrf24.o
+ .text._ZN6Enrf243endEv
+                0x00000000       0x50 ./inc/Enrf24.o
+ .text._ZN6Enrf249disableRXEv
+                0x00000000       0x32 ./inc/Enrf24.o
+ .text._ZN6Enrf247autoAckEh
+                0x00000000       0x30 ./inc/Enrf24.o
+ .text._ZN6Enrf2416setAutoAckParamsEht
+                0x00000000       0x1a ./inc/Enrf24.o
+ .text._ZN6Enrf2412setTXaddressEPKv
+                0x00000000        0xa ./inc/Enrf24.o
+ .text._ZN6Enrf2416rfSignalDetectedEv
+                0x00000000        0x6 ./inc/Enrf24.o
+ .text._ZN6Enrf248getSpeedEv
+                0x00000000       0x20 ./inc/Enrf24.o
+ .text._ZN6Enrf2410getTXpowerEv
+                0x00000000       0x2c ./inc/Enrf24.o
+ .text._ZN6Enrf2410getAutoAckEv
+                0x00000000       0x10 ./inc/Enrf24.o
+ .text._ZN6Enrf2412getRXaddressEPv
+                0x00000000        0xa ./inc/Enrf24.o
+ .text._ZN6Enrf2412getTXaddressEPv
+                0x00000000        0xa ./inc/Enrf24.o
+ .text._ZN6Enrf246getCRCEv
+                0x00000000       0x24 ./inc/Enrf24.o
+ .rodata.CSWTCH.63
+                0x00000000       0x84 ./inc/Enrf24.o
+ .rodata.CSWTCH.66
+                0x00000000        0x5 ./inc/Enrf24.o
+ .rodata.CSWTCH.72
+                0x00000000        0x5 ./inc/Enrf24.o
+ .text          0x00000000        0x0 ./Enrf24_TXdemo.o
+ .data          0x00000000        0x0 ./Enrf24_TXdemo.o
+ .bss           0x00000000        0x0 ./Enrf24_TXdemo.o
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .rodata.timer_to_offset
+                0x00000000       0x5c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_analog_in
+                0x00000000       0xa4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .rodata.timer_to_pin_config
+                0x00000000       0x5c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .rodata.timer_to_ab
+                0x00000000       0x17 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_timer
+                0x00000000       0x29 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .text.micros   0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .text.registerSysTickCb
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x00000000       0x3c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x00000000       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralEnable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x00000000       0x48 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x00000000       0x12 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlLDODeepSleepSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlDeepSleepPowerSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlReset
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlSleep
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x00000000       0x48 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x00000000      0x244 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00000000       0x8c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x00000000       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlADCSpeedSet
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlADCSpeedGet
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x00000000       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x00000000      0x120 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x00000000       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler1
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler2
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler3
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler4
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler5
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler6
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.UARTIntHandler7
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.Timer5IntHandler
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.link     0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._close   0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._fstat   0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._isatty  0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._lseek   0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._read    0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._write   0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._kill    0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text._getpid  0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntMasterEnable
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntMasterDisable
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntRegister
+                0x00000000       0x34 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntUnregister
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPrioritySet
+                0x00000000       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPriorityGet
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntEnable
+                0x00000000       0x60 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntDisable
+                0x00000000       0x60 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntIsEnabled
+                0x00000000       0x64 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPendSet
+                0x00000000       0x50 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPendClear
+                0x00000000       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text.IntTrigger
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ vtable         0x00000000      0x400 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x00000000       0x9c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_info    0x00000000      0x45e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_abbrev  0x00000000      0x13a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_loc     0x00000000      0x26e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_aranges
+                0x00000000       0xa0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_line    0x00000000      0x2a7 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_str     0x00000000      0x32b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .debug_frame   0x00000000      0x144 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(interrupt.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text._EEPROMSectorMaskSet
+                0x00000000       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMInit
+                0x00000000       0x3c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMSizeGet
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockCountGet
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMRead
+                0x00000000       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMProgram
+                0x00000000       0xbc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMProgramNonBlocking
+                0x00000000       0x44 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockProtectGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockProtectSet
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockPasswordSet
+                0x00000000       0x34 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockLock
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockUnlock
+                0x00000000       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMBlockHide
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMIntEnable
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMIntDisable
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMIntStatus
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMIntClear
+                0x00000000       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMStatusGet
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUcpsid
+                0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUprimask
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUcpsie
+                0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUwfi   0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUbasepriSet
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text.CPUbasepriGet
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_info    0x00000000      0x14e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_abbrev  0x00000000       0xba C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_aranges
+                0x00000000       0x48 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_line    0x00000000      0x177 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_str     0x00000000      0x180 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .debug_frame   0x00000000       0x70 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(cpu.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .text.attachInterrupt
+                0x00000000      0x294 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .text.detachInterrupt
+                0x00000000      0x17c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .group         0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEmi.part.0
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x34 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x3c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000       0xec C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print10printFloatEfh
+                0x00000000       0xa0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print5printEfi
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .text._ZN5Print7printlnEfi
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .group         0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial13setBufferSizeEmm
+                0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial9setModuleEm
+                0x00000000       0x48 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial7setPinsEm
+                0x00000000       0x54 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x50 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text._Znwj    0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text._Znaj    0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_info    0x00000000      0x1be C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_abbrev  0x00000000       0xe8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_loc     0x00000000       0x5f C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_aranges
+                0x00000000       0x58 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_line    0x00000000      0x167 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_str     0x00000000      0x1e3 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .debug_frame   0x00000000       0x90 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(new.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text._GPIOIntNumberGet
+                0x00000000       0x44 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIODirModeSet
+                0x00000000       0x2e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIODirModeGet
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntTypeSet
+                0x00000000       0x5a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntTypeGet
+                0x00000000       0x4a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPadConfigSet
+                0x00000000      0x130 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPadConfigGet
+                0x00000000       0xc4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntEnable
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntDisable
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntRegister
+                0x00000000       0x1a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOIntUnregister
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinRead
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinWrite
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeADC
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeCAN
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeComparator
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeEPI
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeEthernetLED
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeEthernetMII
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeFan
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeGPIOInput
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutput
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeI2C
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeI2CSCL
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeLCD
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeLPC
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypePECIRx
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypePECITx
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypePWM
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeQEI
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeSSI
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeTimer
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeUART
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeUSBAnalog
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeUSBDigital
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeWakeHigh
+                0x00000000       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeWakeLow
+                0x00000000       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeKBRow
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeKBColumn
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeLEDSeq
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinTypeCIR
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinWakeStatus
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOPinConfigure
+                0x00000000       0x4c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIODMATriggerEnable
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIODMATriggerDisable
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOADCTriggerEnable
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text.GPIOADCTriggerDisable
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00000000       0xc0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x00000000       0x90 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00000000       0xc0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String10invalidateEv
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String7reserveEj
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x00000000       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000       0x2e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x00000000       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEc
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEh
+                0x00000000       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEi
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEj
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEl
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String6concatEm
+                0x00000000       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000       0x1a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000       0x26 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000       0x36 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000       0x2e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000       0x12 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6StringixEj
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6StringixEj
+                0x00000000       0x12 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000       0x2e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000       0x42 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x00000000       0x4c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x00000000       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000      0x112 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZN6String4trimEv
+                0x00000000       0x58 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x00000000        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .rodata.str1.1
+                0x00000000        0x1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_info    0x00000000     0x217c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_abbrev  0x00000000      0x34a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_loc     0x00000000     0x1885 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_aranges
+                0x00000000      0x210 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_line    0x00000000      0x6ca C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_str     0x00000000      0xaec C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .debug_frame   0x00000000      0x630 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WString.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .text.ltoa     0x00000000       0x68 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .text.itoa     0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .text.ultoa    0x00000000       0x52 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .text.utoa     0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_info    0x00000000      0x23d C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_abbrev  0x00000000       0xc2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_loc     0x00000000      0x258 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_aranges
+                0x00000000       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_line    0x00000000       0xf7 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_str     0x00000000      0x152 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .debug_frame   0x00000000       0x6c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(itoa.o)
+ .text          0x00000000      0x370 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x50 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0x40 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .data          0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .bss           0x00000000        0x0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClassC2Ev
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClassC2Eh
+                0x00000000        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClass11setBitOrderEhh
+                0x00000000        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClass15setClockDividerEh
+                0x00000000       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text._ZN8SPIClass9setModuleEh
+                0x00000000        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .text.atol     0x00000000        0x8 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .text._atol_r  0x00000000        0x8 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .debug_frame   0x00000000       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atol.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .text.isspace  0x00000000       0x14 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .debug_frame   0x00000000       0x20 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-isspace.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000      0x144 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .text.memmove  0x00000000      0x198 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .text.realloc  0x00000000       0x18 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .debug_frame   0x00000000       0x28 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-realloc.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x00000000      0x3dc c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000000       0x38 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .text.strchr   0x00000000       0xfc c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strchr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .text.strcpy   0x00000000       0xbc c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000       0x20 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .text.strncmp  0x00000000      0x120 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .text.strncpy  0x00000000      0x110 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .text.strrchr  0x00000000       0x28 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strrchr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .text.critical_factorization
+                0x00000000       0xbc c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .text.two_way_long_needle
+                0x00000000      0x318 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .text.strstr   0x00000000      0x2f0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .debug_frame   0x00000000       0x88 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strstr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x00000000      0x134 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .text.strtol   0x00000000       0x1c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .debug_frame   0x00000000       0x54 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strtol.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .text.tolower  0x00000000       0x18 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .debug_frame   0x00000000       0x20 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-tolower.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .text.toupper  0x00000000       0x18 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .debug_frame   0x00000000       0x20 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-toupper.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .data.__ctype_ptr__
+                0x00000000        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x00000000      0x104 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .text.memchr   0x00000000      0x140 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x00000000       0xb8 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x8c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+ .text._wrapup_reent
+                0x00000000       0x74 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00000000         0x00040000         xr
+ram              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./inc/Enrf24.o
+LOAD ./Enrf24_TXdemo.o
+START GROUP
+
+.text           0x00000000     0x27e0
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                0x00000000                g_pfnVectors
+ *(.text .text* .gnu.linkonce.t.*)
+ .text._ZN6Enrf24C2Ehhh
+                0x0000026c       0x2c ./inc/Enrf24.o
+                0x0000026c                Enrf24::Enrf24(unsigned char, unsigned char, unsigned char)
+                0x0000026c                Enrf24::Enrf24(unsigned char, unsigned char, unsigned char)
+ .text._ZN6Enrf248_readRegEh
+                0x00000298       0x38 ./inc/Enrf24.o
+                0x00000298                Enrf24::_readReg(unsigned char)
+ .text._ZN6Enrf2416_readRegMultiLSBEhPhj
+                0x000002d0       0x54 ./inc/Enrf24.o
+                0x000002d0                Enrf24::_readRegMultiLSB(unsigned char, unsigned char*, unsigned int)
+ .text._ZN6Enrf249_writeRegEhh
+                0x00000324       0x3c ./inc/Enrf24.o
+                0x00000324                Enrf24::_writeReg(unsigned char, unsigned char)
+ .text._ZN6Enrf2417_writeRegMultiLSBEhPhj
+                0x00000360       0x48 ./inc/Enrf24.o
+                0x00000360                Enrf24::_writeRegMultiLSB(unsigned char, unsigned char*, unsigned int)
+ .text._ZN6Enrf249_issueCmdEh
+                0x000003a8       0x2c ./inc/Enrf24.o
+                0x000003a8                Enrf24::_issueCmd(unsigned char)
+ .text._ZN6Enrf2416_issueCmdPayloadEhPhj
+                0x000003d4       0x44 ./inc/Enrf24.o
+                0x000003d4                Enrf24::_issueCmdPayload(unsigned char, unsigned char*, unsigned int)
+ .text._ZN6Enrf2415_readCmdPayloadEhPhjj
+                0x00000418       0x54 ./inc/Enrf24.o
+                0x00000418                Enrf24::_readCmdPayload(unsigned char, unsigned char*, unsigned int, unsigned int)
+ .text._ZN6Enrf248_isAliveEv
+                0x0000046c       0x1c ./inc/Enrf24.o
+                0x0000046c                Enrf24::_isAlive()
+ .text._ZN6Enrf2414_irq_getreasonEv
+                0x00000488       0x14 ./inc/Enrf24.o
+                0x00000488                Enrf24::_irq_getreason()
+ .text._ZN6Enrf2410_irq_clearEh
+                0x0000049c        0xa ./inc/Enrf24.o
+                0x0000049c                Enrf24::_irq_clear(unsigned char)
+ .text._ZN6Enrf2411_readTXaddrEPh
+                0x000004a6        0xa ./inc/Enrf24.o
+                0x000004a6                Enrf24::_readTXaddr(unsigned char*)
+ .text._ZN6Enrf2414_writeRXaddrP0EPh
+                0x000004b0        0xa ./inc/Enrf24.o
+                0x000004b0                Enrf24::_writeRXaddrP0(unsigned char*)
+ .text._ZN6Enrf2416_maintenanceHookEv
+                0x000004ba       0xaa ./inc/Enrf24.o
+                0x000004ba                Enrf24::_maintenanceHook()
+ .text._ZN6Enrf249availableEh
+                0x00000564       0x3c ./inc/Enrf24.o
+                0x00000564                Enrf24::available(unsigned char)
+ .text._ZN6Enrf244readEPvh
+                0x000005a0       0x78 ./inc/Enrf24.o
+                0x000005a0                Enrf24::read(void*, unsigned char)
+ .text._ZN6Enrf2410radioStateEv
+                0x00000618       0x4c ./inc/Enrf24.o
+                0x00000618                Enrf24::radioState()
+ .text._ZN6Enrf249deepsleepEv
+                0x00000664       0x2a ./inc/Enrf24.o
+                0x00000664                Enrf24::deepsleep()
+ .text._ZN6Enrf248enableRXEv
+                0x0000068e       0x3a ./inc/Enrf24.o
+                0x0000068e                Enrf24::enableRX()
+ .text._ZN6Enrf245flushEv
+                0x000006c8      0x126 ./inc/Enrf24.o
+                0x000006c8                Enrf24::flush()
+ .text._ZN6Enrf245writeEh
+                0x000007ee       0x1e ./inc/Enrf24.o
+                0x000007ee                Enrf24::write(unsigned char)
+ .text._ZN6Enrf2410setChannelEh
+                0x0000080c        0xe ./inc/Enrf24.o
+                0x0000080c                Enrf24::setChannel(unsigned char)
+ .text._ZN6Enrf2410setTXpowerEa
+                0x0000081a       0x40 ./inc/Enrf24.o
+                0x0000081a                Enrf24::setTXpower(signed char)
+ *fill*         0x0000085a        0x2 00
+ .text._ZN6Enrf248setSpeedEm
+                0x0000085c       0x3c ./inc/Enrf24.o
+                0x0000085c                Enrf24::setSpeed(unsigned long)
+ .text._ZN6Enrf246setCRCEhh
+                0x00000898       0x32 ./inc/Enrf24.o
+                0x00000898                Enrf24::setCRC(unsigned char, unsigned char)
+ .text._ZN6Enrf2416setAddressLengthEj
+                0x000008ca       0x26 ./inc/Enrf24.o
+                0x000008ca                Enrf24::setAddressLength(unsigned int)
+ .text._ZN6Enrf245beginEmh
+                0x000008f0      0x10c ./inc/Enrf24.o
+                0x000008f0                Enrf24::begin(unsigned long, unsigned char)
+ .text._ZN6Enrf2412setRXaddressEPKv
+                0x000009fc        0xa ./inc/Enrf24.o
+                0x000009fc                Enrf24::setRXaddress(void const*)
+ *fill*         0x00000a06        0x2 00
+ .text._Z31dump_radio_status_to_serialporth
+                0x00000a08       0x5c ./Enrf24_TXdemo.o
+                0x00000a08                dump_radio_status_to_serialport(unsigned char)
+ .text.loop     0x00000a64       0x78 ./Enrf24_TXdemo.o
+                0x00000a64                loop
+ .text.setup    0x00000adc       0x70 ./Enrf24_TXdemo.o
+                0x00000adc                setup
+ .text.startup._GLOBAL__sub_I_radio
+                0x00000b4c       0x10 ./Enrf24_TXdemo.o
+ .text.strcmp   0x00000b5c       0x80 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+                0x00000b5c                strcmp
+ .text.strcmp_unaligned
+                0x00000bdc      0x15c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .text.pinMode  0x00000d38       0xb0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x00000d38                pinMode
+ .text.digitalRead
+                0x00000de8       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x00000de8                digitalRead
+ .text.digitalWrite
+                0x00000e20       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x00000e20                digitalWrite
+ .text.timerInit
+                0x00000e58       0x98 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000e58                timerInit
+ .text.millis   0x00000ef0        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000ef0                millis
+ .text.delayMicroseconds
+                0x00000efc       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000efc                delayMicroseconds
+ .text.delay    0x00000f20       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000f20                delay
+ .text.Timer5IntHandler
+                0x00000f38       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000f38                Timer5IntHandler
+ .text.SysTickIntHandler
+                0x00000f5c       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                0x00000f5c                SysTickIntHandler
+ .text.SysCtlPeripheralReset
+                0x00000f78       0x3a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                0x00000f78                SysCtlPeripheralReset
+ .text.SysCtlDelay
+                0x00000fb2        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                0x00000fb2                SysCtlDelay
+ *fill*         0x00000fba        0x2 00
+ .text.SysCtlClockSet
+                0x00000fbc      0x128 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                0x00000fbc                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x000010e4       0xd0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                0x000010e4                SysCtlClockGet
+ .text.ToneIntHandler
+                0x000011b4        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                0x000011b4                ToneIntHandler
+ .text.I2CIntHandler
+                0x000011b6        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                0x000011b6                I2CIntHandler
+ .text.NmiSR    0x000011b8        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.FaultISR
+                0x000011ba        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .text.IntDefaultHandler
+                0x000011bc        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ *fill*         0x000011be        0x2 00
+ .text.ResetISR
+                0x000011c0       0x98 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                0x000011c0                ResetISR
+ .text._sbrk    0x00001258       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                0x00001258                _sbrk
+ .text.startup.main
+                0x00001284      0x130 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+                0x00001284                main
+ .text._EEPROMWaitForDone
+                0x000013b4       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text._EEPROMSectorMaskClear
+                0x000013c4       0x34 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .text.EEPROMMassErase
+                0x000013f8       0x58 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+                0x000013f8                EEPROMMassErase
+ .text.GPIOXIntHandler
+                0x00001450       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x00001450                GPIOXIntHandler
+ .text.GPIOAIntHandler
+                0x0000147c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000147c                GPIOAIntHandler
+ .text.GPIOBIntHandler
+                0x0000148c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000148c                GPIOBIntHandler
+ .text.GPIOCIntHandler
+                0x0000149c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000149c                GPIOCIntHandler
+ .text.GPIODIntHandler
+                0x000014ac       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014ac                GPIODIntHandler
+ .text.GPIOEIntHandler
+                0x000014bc       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014bc                GPIOEIntHandler
+ .text.GPIOFIntHandler
+                0x000014cc       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014cc                GPIOFIntHandler
+ .text.GPIOGIntHandler
+                0x000014dc       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014dc                GPIOGIntHandler
+ .text.GPIOHIntHandler
+                0x000014ec       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014ec                GPIOHIntHandler
+ .text.GPIOJIntHandler
+                0x000014fc       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x000014fc                GPIOJIntHandler
+ .text.GPIOKIntHandler
+                0x0000150c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000150c                GPIOKIntHandler
+ .text.GPIOLIntHandler
+                0x0000151c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000151c                GPIOLIntHandler
+ .text.GPIOMIntHandler
+                0x0000152c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000152c                GPIOMIntHandler
+ .text.GPIONIntHandler
+                0x0000153c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000153c                GPIONIntHandler
+ .text.GPIOPIntHandler
+                0x0000154c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000154c                GPIOPIntHandler
+ .text.GPIOQIntHandler
+                0x0000155c       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                0x0000155c                GPIOQIntHandler
+ .text._ZN5Print5writeEPKhj
+                0x0000156c       0x22 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x0000156c                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5writeEPKc
+                0x0000158e       0x1a C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x0000158e                Print::write(char const*)
+ .text._ZN5Print5printEPKc
+                0x000015a8        0x8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x000015a8                Print::print(char const*)
+ .text._ZN5Print5printEc
+                0x000015b0        0xa C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x000015b0                Print::print(char)
+ .text._ZN5Print7printlnEv
+                0x000015ba       0x18 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x000015ba                Print::println()
+ .text._ZN5Print7printlnEPKc
+                0x000015d2       0x14 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                0x000015d2                Print::println(char const*)
+ .text._ZN14HardwareSerial9availableEv
+                0x000015e6       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000015e6                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x000015f6       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000015f6                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x00001606       0x1e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001606                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x00001624        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001624                HardwareSerial::flush()
+ .text._ZN14HardwareSerialC2Ev
+                0x00001630       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001630                HardwareSerial::HardwareSerial()
+                0x00001630                HardwareSerial::HardwareSerial()
+ .text._ZN14HardwareSerialC2Em
+                0x00001660       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001660                HardwareSerial::HardwareSerial(unsigned long)
+                0x00001660                HardwareSerial::HardwareSerial(unsigned long)
+ .text._ZN14HardwareSerial8flushAllEv
+                0x00001690       0x16 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001690                HardwareSerial::flushAll()
+ *fill*         0x000016a6        0x2 00
+ .text._ZN14HardwareSerial13primeTransmitEm
+                0x000016a8       0x7c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000016a8                HardwareSerial::primeTransmit(unsigned long)
+ .text._ZN14HardwareSerial5writeEh
+                0x00001724       0x60 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001724                HardwareSerial::write(unsigned char)
+ .text._ZN14HardwareSerial5beginEm
+                0x00001784      0x108 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001784                HardwareSerial::begin(unsigned long)
+ .text._ZN14HardwareSerial14UARTIntHandlerEv
+                0x0000188c       0xd4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x0000188c                HardwareSerial::UARTIntHandler()
+ .text.UARTIntHandler
+                0x00001960        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001960                UARTIntHandler
+ .text.UARTIntHandler1
+                0x0000196c        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x0000196c                UARTIntHandler1
+ .text.UARTIntHandler2
+                0x00001978        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001978                UARTIntHandler2
+ .text.UARTIntHandler3
+                0x00001984        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001984                UARTIntHandler3
+ .text.UARTIntHandler4
+                0x00001990        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x00001990                UARTIntHandler4
+ .text.UARTIntHandler5
+                0x0000199c        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x0000199c                UARTIntHandler5
+ .text.UARTIntHandler6
+                0x000019a8        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019a8                UARTIntHandler6
+ .text.UARTIntHandler7
+                0x000019b4        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019b4                UARTIntHandler7
+ .text._Z11serialEventv
+                0x000019c0        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019c0                serialEvent()
+ .text._Z12serialEvent1v
+                0x000019c2        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019c2                serialEvent1()
+ .text._Z12serialEvent2v
+                0x000019c4        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019c4                serialEvent2()
+ .text._Z12serialEvent3v
+                0x000019c6        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019c6                serialEvent3()
+ .text._Z12serialEvent4v
+                0x000019c8        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019c8                serialEvent4()
+ .text._Z12serialEvent5v
+                0x000019ca        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019ca                serialEvent5()
+ .text._Z12serialEvent6v
+                0x000019cc        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019cc                serialEvent6()
+ .text._Z12serialEvent7v
+                0x000019ce        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019ce                serialEvent7()
+ .text._Z14serialEventRunv
+                0x000019d0       0x84 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000019d0                serialEventRun()
+ .text.startup._GLOBAL__sub_I__ZN14HardwareSerialC2Ev
+                0x00001a54       0x64 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .text.GPIOIntStatus
+                0x00001ab8        0xe C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+                0x00001ab8                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00001ac6        0x6 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+                0x00001ac6                GPIOIntClear
+ .text._ZN8SPIClass5beginEv
+                0x00001acc      0x104 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x00001acc                SPIClass::begin()
+ .text._ZN8SPIClass11setBitOrderEh
+                0x00001bd0        0x2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x00001bd0                SPIClass::setBitOrder(unsigned char)
+ *fill*         0x00001bd2        0x2 00
+ .text._ZN8SPIClass11setDataModeEh
+                0x00001bd4       0x24 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x00001bd4                SPIClass::setDataMode(unsigned char)
+ .text._ZN8SPIClass8transferEh
+                0x00001bf8       0x44 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x00001bf8                SPIClass::transfer(unsigned char)
+ .text.startup._GLOBAL__sub_I__ZN8SPIClassC2Ev
+                0x00001c3c        0xc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .text.malloc   0x00001c48       0x10 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+                0x00001c48                malloc
+ .text.free     0x00001c58       0x10 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+                0x00001c58                free
+ .text._malloc_r
+                0x00001c68      0x55c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x00001c68                _malloc_r
+ .text.__malloc_lock
+                0x000021c4        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+                0x000021c4                __malloc_lock
+ .text.__malloc_unlock
+                0x000021c8        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+                0x000021c8                __malloc_unlock
+ .text._sbrk_r  0x000021cc       0x24 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+                0x000021cc                _sbrk_r
+ .text.strlen   0x000021f0       0x60 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+                0x000021f0                strlen
+ .text._malloc_trim_r
+                0x00002250       0x98 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+                0x00002250                _malloc_trim_r
+ .text._free_r  0x000022e8      0x194 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+                0x000022e8                _free_r
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ *fill*         0x0000247c        0x4 00
+ .rodata._ZTV6Enrf24
+                0x00002480       0x10 ./inc/Enrf24.o
+                0x00002480                vtable for Enrf24
+ .rodata._ZL6rxaddr
+                0x00002490        0x5 ./Enrf24_TXdemo.o
+ .rodata.str1.1
+                0x00002495       0xd9 ./Enrf24_TXdemo.o
+ .rodata.digital_pin_to_bit_mask
+                0x0000256e       0x29 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x0000256e                digital_pin_to_bit_mask
+ *fill*         0x00002597        0x1 00
+ .rodata.port_to_base
+                0x00002598       0x1c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x00002598                port_to_base
+ .rodata.digital_pin_to_port
+                0x000025b4       0x29 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                0x000025b4                digital_pin_to_port
+ *fill*         0x000025dd        0x3 00
+ .rodata.g_pui32Xtals
+                0x000025e0       0x6c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .rodata._ZL14g_ulUARTConfig
+                0x0000264c       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZL14g_ulUARTPeriph
+                0x0000268c       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZL11g_ulUARTInt
+                0x000026ac       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZL12g_ulUARTPins
+                0x000026cc       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ *fill*         0x000026ec        0x4 00
+ .rodata._ZTV14HardwareSerial
+                0x000026f0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x000026f0                vtable for HardwareSerial
+ .rodata._ZL12g_ulUARTBase
+                0x00002710       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZL12g_ulUARTPort
+                0x00002730       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .rodata._ZL11g_ulSSIBase
+                0x00002750       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .rodata._ZL13g_ulSSIConfig
+                0x00002760       0x40 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .rodata._ZL11g_ulSSIPort
+                0x000027a0       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .rodata._ZL13g_ulSSIPeriph
+                0x000027b0       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .rodata._ZL11g_ulSSIPins
+                0x000027c0       0x10 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .rodata.str1.4
+                0x000027d0        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000027d4                . = ALIGN (0x4)
+ *(.init)
+                0x000027d4                . = ALIGN (0x4)
+                0x000027d4                __preinit_array_start = .
+ *(SORT(.preinit_array*))
+ *(.preinit_array)
+                0x000027d4                __preinit_array_end = .
+                0x000027d4                . = ALIGN (0x4)
+                0x000027d4                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000027d4        0x4 ./Enrf24_TXdemo.o
+ .init_array    0x000027d8        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .init_array    0x000027dc        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x000027e0                __init_array_end = .
+                0x000027e0                . = ALIGN (0x4)
+ *(.fini)
+                0x000027e0                . = ALIGN (0x4)
+                0x000027e0                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x000027e0                __fini_array_end = .
+                0x000027e0                . = ALIGN (0x4)
+                0x000027e0                _etext = .
+
+.vfp11_veneer   0x000027e0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000027e0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000027e0        0x0
+ .iplt          0x00000000        0x0 ./inc/Enrf24.o
+
+.rel.dyn        0x000027e0        0x0
+ .rel.iplt      0x00000000        0x0 ./inc/Enrf24.o
+
+.data           0x20000000      0x844 load address 0x000027e0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _data = .
+ *(vtable)
+ *(.data .data* .gnu.linkonce.d.*)
+ .data.str_off  0x20000000        0x4 ./Enrf24_TXdemo.o
+                0x20000000                str_off
+ .data.str_on   0x20000004        0x4 ./Enrf24_TXdemo.o
+                0x20000004                str_on
+ .data.__malloc_av_
+                0x20000008      0x408 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000008                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000410        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000410                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000414        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000414                __malloc_sbrk_base
+ .data.impure_data
+                0x20000418      0x428 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000840        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x20000840                _impure_ptr
+                0x20000844                _edata = .
+
+.igot.plt       0x20000844        0x0 load address 0x00003024
+ .igot.plt      0x00000000        0x0 ./inc/Enrf24.o
+
+.bss            0x20000844      0x43c load address 0x00003024
+                0x20000844                . = ALIGN (0x4)
+                0x20000844                _bss = .
+ *(.bss .bss*)
+ .bss.radio     0x20000844       0x34 ./Enrf24_TXdemo.o
+                0x20000844                radio
+ .bss.SysTickCbFuncs
+                0x20000878       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .bss.milliseconds
+                0x20000898        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .bss.heap_end.6273
+                0x2000089c        0x4 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .bss.cbFuncsH  0x200008a0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsJ  0x200008c0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsK  0x200008e0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsL  0x20000900       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsM  0x20000920       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsN  0x20000940       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsP  0x20000960       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsQ  0x20000980       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsA  0x200009a0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsB  0x200009c0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsC  0x200009e0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsD  0x20000a00       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsE  0x20000a20       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsF  0x20000a40       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.cbFuncsG  0x20000a60       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .bss.Serial5   0x20000a80       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000a80                Serial5
+ .bss.Serial    0x20000ab8       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000ab8                Serial
+ .bss.Serial1   0x20000af0       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000af0                Serial1
+ .bss.Serial2   0x20000b28       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000b28                Serial2
+ .bss.Serial3   0x20000b60       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000b60                Serial3
+ .bss.Serial4   0x20000b98       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000b98                Serial4
+ .bss.Serial6   0x20000bd0       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000bd0                Serial6
+ .bss.Serial7   0x20000c08       0x38 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                0x20000c08                Serial7
+ .bss.SPI       0x20000c40        0x1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                0x20000c40                SPI
+ *fill*         0x20000c41        0x3 00
+ .bss.__malloc_max_total_mem
+                0x20000c44        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000c44                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000c48        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000c48                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000c4c        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000c4c                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000c50       0x28 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+                0x20000c50                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x20000c78        0x4 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+                0x20000c78                errno
+                0x20000c7c                . = ALIGN (0x4)
+                0x20000c7c                _ebss = .
+                0x20000c80                . = ALIGN (0x8)
+ *fill*         0x20000c7c        0x4 00
+                0x20000c80                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x20000c80                PROVIDE (__exidx_end, .)
+                0x20000c80                . = ALIGN (0x4)
+                0x20000c80                _end = .
+                0x20000c80                PROVIDE (end, _end)
+                0x20008000                PROVIDE (_estack, (ORIGIN (ram) + 0x8000))
+LOAD c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a
+LOAD c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+LOAD c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu\libgcc.a
+LOAD C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a
+END GROUP
+OUTPUT(Enrf24_TXdemo.out elf32-littlearm)
+
+.debug_info     0x00000000     0x8f8b
+ .debug_info    0x00000000     0x1720 ./inc/Enrf24.o
+ .debug_info    0x00001720      0x5d6 ./Enrf24_TXdemo.o
+ .debug_info    0x00001cf6      0x56d C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_info    0x00002263      0x472 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_info    0x000026d5      0xbee C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_info    0x000032c3      0x970 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_info    0x00003c33      0x327 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_info    0x00003f5a      0x46c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_info    0x000043c6      0x6e2 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_info    0x00004aa8     0x1f0e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_info    0x000069b6     0x106c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_info    0x00007a22      0xdca C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_info    0x000087ec      0x79f C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.debug_abbrev   0x00000000     0x1a76
+ .debug_abbrev  0x00000000      0x3b1 ./inc/Enrf24.o
+ .debug_abbrev  0x000003b1      0x1fd ./Enrf24_TXdemo.o
+ .debug_abbrev  0x000005ae      0x120 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_abbrev  0x000006ce      0x15c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_abbrev  0x0000082a      0x1f8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_abbrev  0x00000a22      0x202 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_abbrev  0x00000c24       0x6d C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_abbrev  0x00000c91      0x17e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_abbrev  0x00000e0f      0x158 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_abbrev  0x00000f67      0x37f C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_abbrev  0x000012e6      0x3e0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_abbrev  0x000016c6      0x163 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_abbrev  0x00001829      0x24d C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.debug_loc      0x00000000     0x4532
+ .debug_loc     0x00000000      0xe90 ./inc/Enrf24.o
+ .debug_loc     0x00000e90       0x7f ./Enrf24_TXdemo.o
+ .debug_loc     0x00000f0f      0x280 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_loc     0x0000118f      0x103 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_loc     0x00001292      0x816 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_loc     0x00001aa8      0x136 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_loc     0x00001bde       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_loc     0x00001bfe      0x409 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_loc     0x00002007      0x1e1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_loc     0x000021e8     0x1001 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_loc     0x000031e9      0x486 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_loc     0x0000366f      0xd82 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_loc     0x000043f1      0x141 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.debug_aranges  0x00000000      0xab0
+ .debug_aranges
+                0x00000000      0x168 ./inc/Enrf24.o
+ .debug_aranges
+                0x00000168       0x38 ./Enrf24_TXdemo.o
+ .debug_aranges
+                0x000001a0       0x30 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_aranges
+                0x000001d0       0x58 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_aranges
+                0x00000228      0x1e8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_aranges
+                0x00000410       0xe0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_aranges
+                0x000004f0       0x20 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_aranges
+                0x00000510       0xc0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_aranges
+                0x000005d0       0xa8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_aranges
+                0x00000678      0x100 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_aranges
+                0x00000778      0x120 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000898      0x1a8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_aranges
+                0x00000a40       0x70 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.debug_line     0x00000000     0x333a
+ .debug_line    0x00000000      0x6f0 ./inc/Enrf24.o
+ .debug_line    0x000006f0      0x23d ./Enrf24_TXdemo.o
+ .debug_line    0x0000092d      0x1bc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_line    0x00000ae9      0x212 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_line    0x00000cfb      0x71e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_line    0x00001419      0x3d1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_line    0x000017ea      0x195 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_line    0x0000197f      0x362 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_line    0x00001ce1      0x347 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_line    0x00002028      0x4f7 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_line    0x0000251f      0x532 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_line    0x00002a51      0x6a0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_line    0x000030f1      0x249 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.debug_str      0x00000000     0x350a
+ .debug_str     0x00000000      0xa5e ./inc/Enrf24.o
+                                0xacf (size before relaxing)
+ .debug_str     0x00000a5e       0xdc ./Enrf24_TXdemo.o
+                                0x430 (size before relaxing)
+ .debug_str     0x00000b3a      0x15e C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+                                0x30c (size before relaxing)
+ .debug_str     0x00000c98       0xec C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+                                0x2c7 (size before relaxing)
+ .debug_str     0x00000d84      0x74f C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+                                0x836 (size before relaxing)
+ .debug_str     0x000014d3      0x327 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+                                0x53e (size before relaxing)
+ .debug_str     0x000017fa       0x51 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+                                0x26a (size before relaxing)
+ .debug_str     0x0000184b      0x221 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+                                0x323 (size before relaxing)
+ .debug_str     0x00001a6c      0x214 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+                                0x480 (size before relaxing)
+ .debug_str     0x00001c80      0xb59 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+                                0xdb8 (size before relaxing)
+ .debug_str     0x000027d9      0x6e1 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+                                0xa31 (size before relaxing)
+ .debug_str     0x00002eba      0x531 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+                                0x654 (size before relaxing)
+ .debug_str     0x000033eb      0x11f C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+                                0x48e (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./inc/Enrf24.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./Enrf24_TXdemo.o
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .comment       0x00000000       0x71 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+
+.ARM.attributes
+                0x00000000       0x3b
+ .ARM.attributes
+                0x00000000       0x3b ./inc/Enrf24.o
+ .ARM.attributes
+                0x0000003b       0x3b ./Enrf24_TXdemo.o
+ .ARM.attributes
+                0x00000076       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000000ac       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .ARM.attributes
+                0x000000e7       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .ARM.attributes
+                0x00000122       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .ARM.attributes
+                0x0000015d       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .ARM.attributes
+                0x00000198       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .ARM.attributes
+                0x000001d3       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .ARM.attributes
+                0x0000020e       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .ARM.attributes
+                0x00000249       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .ARM.attributes
+                0x00000284       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .ARM.attributes
+                0x000002bf       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .ARM.attributes
+                0x000002fa       0x3b C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .ARM.attributes
+                0x00000335       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000036b       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000003a1       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003d7       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000040d       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000443       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000479       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004af       0x36 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
+
+.debug_frame    0x00000000     0x1bf0
+ .debug_frame   0x00000000      0x418 ./inc/Enrf24.o
+ .debug_frame   0x00000418       0x68 ./Enrf24_TXdemo.o
+ .debug_frame   0x00000480       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x000004b0       0x5c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring_digital.o)
+ .debug_frame   0x0000050c       0xbc C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(wiring.o)
+ .debug_frame   0x000005c8      0x40c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(sysctl.o)
+ .debug_frame   0x000009d4      0x1b0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(startup_gcc.o)
+ .debug_frame   0x00000b84       0x2c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(main.o)
+ .debug_frame   0x00000bb0      0x1c0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(eeprom.o)
+ .debug_frame   0x00000d70      0x158 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(WInterrupts.o)
+ .debug_frame   0x00000ec8      0x304 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(Print.o)
+ .debug_frame   0x000011cc      0x29c C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(HardwareSerial.o)
+ .debug_frame   0x00001468      0x4f0 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_core/Debug\liblptm4c1230c3pm_core.a(gpio.o)
+ .debug_frame   0x00001958       0xf8 C:/Users/Ivan/workspace_v6_0/lptm4c1230c3pm_SPI/Debug\liblptm4c1230c3pm_SPI.a(SPI.o)
+ .debug_frame   0x00001a50       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00001a80       0x38 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00001ab8       0x30 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00001ae8       0x2c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001b14       0x20 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001b34       0x50 c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-freer.o)
+ .debug_frame   0x00001b84       0x6c c:/users/ivan/downloads/energia-0101e0012/hardware/tools/lm4f/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-reent.o)
